@@ -6,13 +6,16 @@
 // @license MIT
 // @description  B站收藏夹时长统计脚本，基于 @吊打洛杉矶柠檬 的脚本，移除了手动输入收藏夹 ID 和 Cookies 的交互，实现一键获取时长。
 // @author       冷萃编译器
-// @homepage     https://space.bilibili.com/28802351
+// @homepage     https://greasyfork.org/zh-CN/scripts/562344
 // @match        https://www.bilibili.com/medialist/detail/*
 // @match        https://space.bilibili.com/*/favlist*
 // @icon         https://www.bilibili.com/favicon.ico
 // @grant        GM_notification
 // @grant        GM_xmlhttpRequest
 // @connect      bilibili.com
+// @supportURL https://github.com/krwu/scripts/issues
+// @downloadURL https://github.com/krwu/scripts/raw/refs/heads/main/bilibili-medialist-duration.user.js
+// @updateURL https://github.com/krwu/scripts/raw/refs/heads/main/bilibili-medialist-duration.user.js
 // ==/UserScript==
 
 (function() {
