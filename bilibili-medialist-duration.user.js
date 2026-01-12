@@ -3,6 +3,7 @@
 // @name         一键统计B站收藏夹时长
 // @namespace    http://tampermonkey.net/
 // @version      1.0
+// @license      MIT
 // @description  B站收藏夹时长统计脚本，基于 @吊打洛杉矶柠檬 的脚本，移除了手动输入收藏夹 ID 和 Cookies 的交互，实现一键获取时长。
 // @author       冷萃编译器
 // @homepage     https://space.bilibili.com/28802351
